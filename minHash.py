@@ -220,7 +220,7 @@ class LSH:
         input_file = open(input_file_name, 'r', encoding="utf-8")
         input_file_csv_reader = csv.reader(input_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_NONE)
         header = next(input_file_csv_reader)
-        for record in tqdm(input_file_csv_reader, total =300001) :
+        for record in tqdm(input_file_csv_reader, total =300002/2) :
             if len(record) != 0:
                 c_set_id = int(record[0])
                 c_MinhiseHashing_sketch = tuple(eval(record[1]))
