@@ -4,6 +4,8 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 
 ### Table of contents:
 
+<br>
+
 | HomeWorks | Topic #1 | Topic #2 |
 | :---:     | :---:    | :---:    |
 | HW_1 | Search-Engine Evaluation | Near-Duplicate-Detection |
@@ -11,6 +13,7 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 | HW_3 | Dimensionality Reduction | Supervised Learning |
 | HW_4 | Text-Representation | Deep Learning |
 
+<br>
 
 ### Team members:
 Work bone and compiled by: 
