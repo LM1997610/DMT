@@ -5,13 +5,13 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 ### Contents:
 
 - HW_1 : Search-Engine Evaluation,\
-&emsp;&emsp; Near-Duplicate-Detection
+&emsp;&emsp;&emsp; Near-Duplicate-Detection
 
 - HW_2 : PageRank,\
-&ensp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&thinsp; Recommendation System
+&emsp;&emsp;&emsp; Recommendation System
 
 - HW_3 : Dimensionality Reduction,\
-&ensp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&thinsp; Supervised Learning
+&emsp;&emsp;&emsp; Supervised Learning
 
 - HW_4 : Text Representation,\
-&ensp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&thinsp; Deep Learning
+&emsp;&emsp;&emsp; Deep Learning
