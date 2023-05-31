@@ -19,6 +19,9 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 
 ### altro titolo:
 
-| Attempt | #1    | #2    |
+| Attempt | Topic #1 | Topic #2    |
 | :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| HW_1 | Search-Engine Evaluation   | Near-Duplicate-Detection   |
+| HW_2 | PageRank   | Recommendation-System  |
+| HW_3 |  Dimensionality Reduction  | Supervised Learning   |
+| HW_4 | Text-Representation  | Deep Learning   |
