@@ -6,12 +6,12 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 
 <br>
 
-| HomeWorks | Topic #1 | Topic #2 |
+|  | **Topic #1** | **Topic #2** |
 | :---:     | :---:    | :---:    |
-| HW_1 | Search-Engine Evaluation | Near-Duplicate-Detection |
-| HW_2 | PageRank | Recommendation-System |
-| HW_3 | Dimensionality Reduction | Supervised Learning |
-| HW_4 | Text-Representation | Deep Learning |
+| [**HW_1**](https://github.com/LM1997610/Data-Mining/blob/main/HW_1_DMT.ipynb) | Search-Engine Evaluation | Near-Duplicate-Detection |
+| [**HW_2**](https://github.com/LM1997610/Data-Mining/blob/main/HW_2_DMT.ipynb) | PageRank | Recommendation-System |
+| [**HW_3**](https://github.com/LM1997610/Data-Mining/blob/main/HW_3_DMT.ipynb) | Dimensionality Reduction | Supervised Learning |
+| [**HW_4**](https://github.com/LM1997610/Data-Mining/blob/main/HW_4_DMT.ipynb) | Text-Representation | Deep Learning |
 
 <br>
 
