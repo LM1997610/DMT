@@ -11,7 +11,6 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 | [**HW_3**](https://github.com/LM1997610/Data-Mining/blob/main/HW_3_DMT.ipynb) | Dimensionality Reduction | Supervised Learning |
 | [**HW_4**](https://github.com/LM1997610/Data-Mining/blob/main/HW_4_DMT.ipynb) | Text-Representation | Deep Learning |
 
-<br>
 
 ### Team members:
 Work bone and compiled by: 
