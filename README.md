@@ -13,7 +13,7 @@ Homeworks for the [**Advanced Data Mining and Language Technology**](https://cor
 
 
 ### Team members:
-Work bone and compiled by: 
+Work done and compiled by: 
 
 - Luca Mazzucco : 1997610
 - Paolo Zilviano : 1916518
